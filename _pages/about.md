@@ -16,6 +16,8 @@ Artificial Intelligence systems are vulnerable to various types of attacks such 
 
 News
 ======
+- **February 2025**: Awarded travel grant for attending IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
+- **February 2025**: Our paper "Defense Against Multi-target Multi-trigger Backdoor Attacks" accepted to PAKDD, 2025.
 - **December 2024**: Our paper "Targeted Manifold Manipulation Against Adversarial Attacks" got accepted in IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
 - **October 2024**: Our paper "Composite Concept Extraction through Backdooring" got accepted into ICPR 2024.
 - **July 2024**: Delivered a talk about AI Security at IEEE Student Branch, Deakin Univeristy.
