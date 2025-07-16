@@ -12,10 +12,12 @@ I am a Research Fellow at University of Manchester, United Kingdom. Previously, 
 
 Research Interest
 ======
-Artificial Intelligence systems are vulnerable to various types of attacks. My research interest is to develop mechanisms to understand Adversarial Machine Learning such as adversarial attacks, and backdoor attacks. I focus on building frameworks to defend against such attacks in machine learning models to make them trustable and safe to use. I am also interested in machine unlearning, differential privacy, data manifold analysis, and out of distribution detection. 
+Artificial Intelligence systems are inherently vulnerable to a range of adversarial threats, including adversarial and backdoor attacks. My research is focused on developing robust mechanisms to enhance the trustworthiness and security of machine learning models, ensuring their safe and reliable deployment. I am particularly interested in advancing the understanding of Adversarial Machine Learning, as well as exploring areas such as machine unlearning, differential privacy, data manifold analysis, and out-of-distribution detection.
 
 News
 ======
+- **July 2025**: Awarded a travel grant from ELSA funds (Mobility Funding) to attend a CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025).
+- **June 2025**: My first paper "Privacy-Preserving Neural Processes for Probabilistic User Modeling" at University of Manchester has been accepted to UAI 2025 (Rank A*) conference. This work has been a collaborative work with Aalto University, Imperial College London, and ELLIS institute Finland.
 - **February 2025**: Awarded travel grant for attending IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
 - **February 2025**: Our paper "Defense Against Multi-target Multi-trigger Backdoor Attacks" accepted to PAKDD, 2025.
 - **December 2024**: Our paper "Targeted Manifold Manipulation Against Adversarial Attacks" got accepted in IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
