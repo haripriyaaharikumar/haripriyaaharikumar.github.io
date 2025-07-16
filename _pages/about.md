@@ -16,7 +16,7 @@ Artificial Intelligence systems are inherently vulnerable to a range of adversar
 
 News
 ======
-- **July 2025**: Awarded a travel grant from ELSA funds (Mobility Funding) to attend a CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025).
+- **July 2025**: Awarded a travel grant from European Lighthouse on Secure and Safe AI funds (ELSA) to attend a CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025).
 - **June 2025**: My first paper "Privacy-Preserving Neural Processes for Probabilistic User Modeling" at University of Manchester has been accepted to UAI 2025 (Rank A*) conference. This work has been a collaborative work with Aalto University, Imperial College London, and ELLIS institute Finland.
 - **February 2025**: Awarded travel grant for attending IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2025.
 - **February 2025**: Our paper "Defense Against Multi-target Multi-trigger Backdoor Attacks" accepted to PAKDD, 2025.
