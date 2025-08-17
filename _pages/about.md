@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at University of Manchester, United Kingdom. Previously, I was a postdoctoral Research Fellow at [Applied Artificial Intelligence Institute](https://a2i2.deakin.edu.au/) at Deakin University, Victoria, Australia.
+I am a Research Fellow at [University of Manchester](https://research.manchester.ac.uk/en/persons/haripriya-harikumar), United Kingdom. Previously, I was a postdoctoral Research Fellow at Applied Artificial Intelligence Institute at Deakin University, Victoria, Australia.
 
 Research Interest
 ======
