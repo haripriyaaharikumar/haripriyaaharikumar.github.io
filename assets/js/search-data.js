@@ -445,6 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/al-folio/news/announcement_4/";
             },},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
           title: 'Awarded a travel grant from European Lighthouse on Secure and Safe AI funds...',
           description: "",
