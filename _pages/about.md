@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Fellow</a>. Centre for AI Fundamentals, Department of COmputer Science. University of Manchester. Manchester, UK.
+subtitle: <a href='#'>Research Fellow</a>. Centre for AI Fundamentals, Department of Computer Science. University of Manchester. UK.
 
 profile:
   align: right
