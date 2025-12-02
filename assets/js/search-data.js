@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-attended-the-turing-ai-fellowship-annual-event-2025-at-the-royal-society-london-sparkles",
+          title: 'Attended the Turing AI Fellowship Annual Event 2025 at The Royal Society, London!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
