@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Haripriya Harikumar
+    - name: Haripriya Harikumar
+      value: 
     - name: Date of Birth
       value: 
     - name: Languages
@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: Deakin University, Australia
-      year: 1905
+      year: 2019
       description:
         - Description 1.
         - Description 2.
