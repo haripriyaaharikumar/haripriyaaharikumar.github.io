@@ -1,15 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"CVPR":
+"ECCV":
   url: https://cvpr.thecvf.com/
   color: "#91917c"
 
-"AISTATS":
+"UAI":
   url: https://aistats.org/
   color: "#6d6875"
 
@@ -17,15 +11,15 @@
   url: https://neurips.cc/
   color: "#0048BA"
 
-"ICML":
+"ICDM":
   url: https://icml.cc/
   color: "#4E6C50"
 
-"ICML Workshop":
+"PAKDD":
   url: https://icml.cc/
   color: "#636C4E"
 
-"ICLR":
+"SATML":
   url: https://iclr.cc/
   color: "#820000"
 
