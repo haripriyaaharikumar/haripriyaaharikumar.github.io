@@ -1,26 +1,29 @@
+"UAI":
+  url: https://www.auai.org/
+  color: "#6d6875"
 
 "ECCV":
-  url: https://cvpr.thecvf.com/
+  url: https://eccv.ecva.net/
   color: "#91917c"
-
-"UAI":
-  url: https://aistats.org/
-  color: "#6d6875"
 
 "NeurIPS":
   url: https://neurips.cc/
   color: "#0048BA"
 
+"ECML":
+  url: https://ecmlpkdd.org/
+  color: "#91917c"
+  
 "ICDM":
-  url: https://icml.cc/
+  url: https://icdm.cc/
   color: "#4E6C50"
 
 "PAKDD":
-  url: https://icml.cc/
+  url: https://pakdd.org/
   color: "#636C4E"
 
 "SATML":
-  url: https://iclr.cc/
+  url: https://satml.org/
   color: "#820000"
 
 "Vision":
