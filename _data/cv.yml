@@ -20,26 +20,26 @@
       institution: University of Manchester
       year: 2024-till date
       description:
-        - Under Prof. Samuel Kaski’s UKRI Turing AI World-Leading Researcher Fellowship.
+        - Under Prof. Samuel Kaski’s UKRI Turing AI World-Leading Researcher Fellowship
         
     - title: Visiting Researcher
       institution: Aalto University
       year: 2026
       description:
-        - To work closely with the PML group in aalto University for a month.
+        - To work closely with the PML group in aalto University for a month
 
     - title: Postdoctoral Research Fellow
       institution: Applied Artificial Intelligence Institute, Deakin University
       year: 2019-2024
-      description: Led a Safe and Responsible AI research team.
+      description: Led a Safe and Responsible AI research team
 
 - title: Honors and Awards
   type: time_table
   contents:
-      - year: 2025
+    - year: 2025
       items:
         - European Lighthouse on Secure and Safe AI funds (ELSA) Grant 2025
-        - Attended CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025).
+        - Attended CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025)
     - year: 2025
       items:
         - SaTML Travel Grant
@@ -57,16 +57,27 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI Security
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Adversarial attack
+        - Adversarial aefense
+        - Adversarial robustness
+        - Backdoor attack
+        - Backdoor defense
+        - Differential Privacy
+        - Machine Unlearning
+    - title: AI Safety
       items:
-        - Description 1.
-        - Description 2.
+        - Bias
+        - Adversarial robustness
+    - title: Uncertainty
+      items:
+        - Reliability
+        - Data manifold learning
+        - Bayesian Experimental Design
 
 - title: Professional Services
   type: list
   contents:
     - <u>Conference Reviewer:</u> CVPR ( 2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AIStaT (2024-Current).
+    
