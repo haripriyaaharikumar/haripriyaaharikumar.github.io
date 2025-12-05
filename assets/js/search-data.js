@@ -450,7 +450,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-attended-and-presented-poster-at-conference-on-uncertainty-in-artificial-intelligence-uai-in-rio-brazil",
+            },},{id: "news-awarded-global-talent-visa-to-join-university-of-manchester",
+          title: 'Awarded Global Talent Visa to join University of Manchester!',
+          description: "",
+          section: "News",},{id: "news-attended-and-presented-poster-at-conference-on-uncertainty-in-artificial-intelligence-uai-in-rio-brazil",
           title: 'Attended and presented poster at Conference on Uncertainty in Artificial Intelligence (UAI) in...',
           description: "",
           section: "News",},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
