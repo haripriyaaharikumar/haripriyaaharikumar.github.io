@@ -59,11 +59,9 @@
   contents:
     - title: AI Security
       items:
-        - Adversarial attack
-        - Adversarial aefense
+        - Adversarial attack and defense
         - Adversarial robustness
-        - Backdoor attack
-        - Backdoor defense
+        - Backdoor attack and defense
         - Differential Privacy
         - Machine Unlearning
     - title: AI Safety
@@ -79,5 +77,5 @@
 - title: Professional Services
   type: list
   contents:
-    - <u>Conference Reviewer:</u> CVPR ( 2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AISTAT (2024-Current).
+    - <u>Conference Reviewer:</u> CVPR (2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AISTAT (2024-Current).
     
