@@ -450,7 +450,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
+            },},{id: "news-awarded-global-talent-visa-to-join-university-of-manchester",
+          title: 'Awarded Global Talent Visa to join University of Manchester!',
+          description: "",
+          section: "News",},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
           title: 'Awarded a travel grant from European Lighthouse on Secure and Safe AI funds...',
           description: "",
           section: "News",},{id: "news-attended-the-turing-ai-fellowship-annual-event-2025-at-the-royal-society-london-sparkles",
