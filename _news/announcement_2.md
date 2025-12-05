@@ -1,12 +1,12 @@
 ---
 layout: post
-title: NeurIPS Workshop on Backdoors in Deep Leaarning: The Good, the Bad and the Ugly
+title: NeurIPS Workshop 
 date: 2023-12-05 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-The Good, the Bad and the Ugly - Modern AI development requires using and sharing of models and data safely. Uncovering backdoor, a foe and a friend at the front door.
+NeuIPS workshop on Backdoors in Deep Leaarning: The Good, the Bad and the Ugly - The Good, the Bad and the Ugly - Modern AI development requires using and sharing of models and data safely. Uncovering backdoor, a foe and a friend at the front door.
 
 ---
 
