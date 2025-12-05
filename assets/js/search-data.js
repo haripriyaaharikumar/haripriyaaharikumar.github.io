@@ -445,15 +445,15 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_4/";
-            },},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
-          title: 'Awarded a travel grant from European Lighthouse on Secure and Safe AI funds...',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
+            },},{id: "news-neurips-workshop",
+          title: 'NeurIPS Workshop',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-attended-the-turing-ai-fellowship-annual-event-2025-at-the-royal-society-london-sparkles",
+            },},{id: "news-awarded-a-travel-grant-from-european-lighthouse-on-secure-and-safe-ai-funds-elsa-to-attend-a-cispa-ellis-summer-school-2025-in-trustworthy-ai-august-4-8-2025",
+          title: 'Awarded a travel grant from European Lighthouse on Secure and Safe AI funds...',
+          description: "",
+          section: "News",},{id: "news-attended-the-turing-ai-fellowship-annual-event-2025-at-the-royal-society-london-sparkles",
           title: 'Attended the Turing AI Fellowship Annual Event 2025 at The Royal Society, London!...',
           description: "",
           section: "News",},{id: "projects-project-1",
