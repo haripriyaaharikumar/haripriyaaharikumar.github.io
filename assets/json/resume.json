@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haripriya Harikumar",
+    "label": "Research Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "haripriyaaharikumar@gmail.com",
+    "phone": "",
+    "url": "https://haripriyahaarikumar.github.io/",
+    "summary": "AI researcher interested in Safety and Security",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "University of Manchester",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "UK",
+      "region": "Manchester"
     },
     "profiles": [
       {
