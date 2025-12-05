@@ -3,8 +3,6 @@
   contents:
     - name: Haripriya Harikumar
       value: 
-    - name: Date of Birth
-      value: 
     - name: Languages
       value: English, Malayalam
 
@@ -14,70 +12,47 @@
     - title: PhD
       institution: Deakin University, Australia
       year: 2019
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+      
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow
+      institution: University of Manchester
+      year: 2024-till date
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Under Prof. Samuel Kaski’s UKRI Turing AI World-Leading Researcher Fellowship.
+        
+    - title: Visiting Researcher
+      institution: Aalto University
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
+        - To work closely with the PML group in aalto University for a month.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Postdoctoral Research Fellow
+      institution: Applied Artificial Intelligence Institute, Deakin University
+      year: 2019-2024
+      description: Led a Safe and Responsible AI research team.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+      - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - European Lighthouse on Secure and Safe AI funds (ELSA) Grant 2025
+        - Attended CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025).
+    - year: 2025
       items:
-        - Max Planck Medal
+        - SaTML Travel Grant
+    - year: 2025
+      items:
+        - Works under UKRI Turing AI World-Leading Researcher Fellowship
+        - Granted Global Talent Visa to work in UK
+    - year: 2023
+      items: 
+        - WiML Travel Grant to attend NeurIPS
+    - year: 2015
+      items:
+        - PhD Scholarship (selected top 1% from India)
 
 - title: Academic Interests
   type: nested_list
@@ -91,7 +66,7 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Professional Services
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Conference Reviewer:</u> CVPR ( 2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AIStaT (2024-Current).
