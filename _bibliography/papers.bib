@@ -80,6 +80,7 @@
   booktitle={European Conference on Machine Learning and Knowledge Discovery in Databases},
   abbr = {ECML},
   preview={bd attack.png},
+  selected = {true},
   year={2021}
 }
 
@@ -96,6 +97,7 @@
   author={Haripriya Harikumar and Rana, Santu and Do, Kien and Gupta, Sunil and Zong, Wei and Susilo, Willy and Venkatesh, Svetha},
   year={Pacific-Asia Conference Knowledge Discovery and Data Mining - Data Science Foundations and Applications, Special edition},
   abbr = {PAKDD},
+  selected = {true},
   year= {2025}
 }
 
@@ -117,8 +119,24 @@
 @inproceedings{harikumar2024compositeconcept,
   title={Composite Concept Extraction through Backdooring},
   author={Banibrata Ghosh and Haripriya Harikumarand Doan, Khoa and Venkatesh, Svetha and Rana, Santu},
+  abstract={Learning composite concepts, such as "red car", from individual examples—like
+a white car representing the concept of "car" and a red strawberry representing
+the concept of "red"—is inherently challenging. This paper introduces a novel
+method called Composite Concept Extractor (CoCE), which leverages techniques
+from traditional backdoor attacks to learn these composite concepts in a zeroshot setting, requiring only examples of individual concepts. By repurposing the
+trigger-based model backdooring mechanism, we create a strategic distortion in
+the manifold of the target object (e.g., "car") induced by example objects with the
+target property (e.g., "red") from objects "red strawberry", ensuring the distortion
+selectively affects the target objects with the target property. Contrastive learning
+is then employed to further refine this distortion, and a method is formulated for
+detecting objects that are influenced by the distortion. Extensive experiments with
+in-depth analysis across different datasets demonstrate the utility and applicability
+of our proposed approach.},
   conference={International Conference on Pattern Recognition},
+  html={https://arxiv.org/pdf/2406.13411},
   abbr = {ICPR},
+  preview={CoCE.png},
+  selected = {true},
   year={2024}
 }
 
@@ -159,6 +177,7 @@
   abstract={Uncertainty-aware user modeling is crucial for designing AI systems that adapt to users in real-time while addressing privacy concerns. This paper proposes a novel framework for privacy-preserving probabilistic user modeling that integrates uncertainty quantification and differential privacy (DP). Building on neural processes (NPs), a scalable latent variable probabilistic model, we enable meta-learning for user behaviour prediction under privacy constraints. By employing differentially private stochastic gradient descent (DP-SGD), our method achieves rigorous privacy guarantees while preserving predictive accuracy. Unlike prior work, which primarily addresses privacy-preserving learning for convex or smooth functions, we establish theoretical guarantees for non-convex objectives, focusing on the utility-privacy trade-offs inherent in uncertainty-aware models. Through extensive experiments, we demonstrate that our approach achieves competitive accuracy under stringent privacy budgets. Our results showcase the potential of privacy-preserving probabilistic user models to enable trustworthy AI systems in real-world interactive applications.},
   conference={Uncertainty in Artificial Intelligence},
   code={https://github.com/AI-Fundamentals/DiffPrivNPUserModeling},
-  abbr = {UAI}, 
+  abbr = {UAI},
+  selected = {true},
   year={2025}
 }
