@@ -1,34 +1,32 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Rana":
+  - firstname: ["Santu"]
+    url: https://experts.deakin.edu.au/2644-santu-rana
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kaski":
+  - firstname: ["Samuel"]
+    url: https://kaski-lab.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Venkatesh":
+  - firstname: ["Svetha"]
+    url: https://svethav.github.io/
+    
+"Gupta":
+  - firstname: ["Sunil"]
+    url: https://experts.deakin.edu.au/2643-sunil-gupta
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Do":
+  - firstname: ["Kien"]
+    url: https://clarken92.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Doan":
+  - firstname: ["Khoa"]
+    url: https://mail-research.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Le":
+  - firstname: ["Hung"]
+    url: https://thaihungle.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Tran":
+  - firstname: ["Truyen"]
+    url: https://truyentran.github.io/
