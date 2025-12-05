@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NeurIPS Workshop : Backdoors in Deep Leaarning: The Good, the Bad and the Ugly
+title: NeurIPS Workshop on Backdoors in Deep Leaarning: The Good, the Bad and the Ugly
 date: 2023-12-05 16:11:00-0400
 inline: false
 related_posts: false
