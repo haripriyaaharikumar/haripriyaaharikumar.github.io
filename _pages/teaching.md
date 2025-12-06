@@ -8,8 +8,17 @@ nav_order: 5
 ---
 
 
+S913, PhD. Doctor of Philosophy. Candidate Banibrata Ghosh. Responsible AI. 2021-2025.
+
+
 SIT723 and SIT724 Research Project A and B, Akhila Manchi. Advanced Algorithms for Machine Learning. 2021-2022.
 
 
-S913, PhD. Doctor of Philosophy. Candidate Banibrata Ghosh. Responsible AI. 2021-2024.
+COMP24112, BSc Computer Science and Mathematics, Machine Learning, Semester 2, (topic - Security Issues in Deep Learning) at the University
+of Manchester, UK.
+
+
+Two BSc Computer Science Third Year project (2025-2026) - Concept Unlearning and Privacy preserved Unlearning.
+
+PhD - Ongoing.
 
