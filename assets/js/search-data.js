@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/al-folio/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "{&quot;sidebar&quot;=&gt;&quot;left&quot;}",
           section: "Navigation",
           handler: () => {
