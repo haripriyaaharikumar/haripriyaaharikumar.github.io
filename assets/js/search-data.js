@@ -421,7 +421,12 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-welcome-to-the-hyunam-dong-bookshop",
+          title: 'Welcome to the Hyunam-Dong Bookshop',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/al-folio/books/hyunam-dong_bookshop/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
