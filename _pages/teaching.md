@@ -1,4 +1,14 @@
 
+---
+layout: page
+permalink: /teaching/
+title: Teaching
+description: 
+nav: true
+nav_order: 5
+---
+
+
 SIT723 and SIT724 Research Project A and B, Akhila Manchi. Advanced Algorithms for Machine Learning. 2021-2022.
 
 
