@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended and presented poster at Conference on Uncertainty in Artificial Intelligence (UAI) in Rio, Brazil!
+Attended and presented poster at Uncertainty in Artificial Intelligence (UAI) Conference (Rank A*) in Rio, Brazil!
