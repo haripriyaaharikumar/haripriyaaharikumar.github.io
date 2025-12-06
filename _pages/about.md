@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://research.manchester.ac.uk/en/persons/haripriya-harikumar/">Research Fellow</a>. Centre for AI Fundamentals, Department of Computer Science. University of Manchester. UK.
 
