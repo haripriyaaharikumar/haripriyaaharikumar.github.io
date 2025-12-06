@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_4/";
-            },},{id: "news-neurips-workshop",
-          title: 'NeurIPS Workshop',
+            },},{id: "news-co-organized-neurips-workshop",
+          title: 'Co-organized NeurIPS Workshop',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/al-folio/news/announcement_2/";
