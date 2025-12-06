@@ -65,13 +65,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/books/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/blog/";
-              },
             },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
