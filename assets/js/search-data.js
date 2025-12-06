@@ -58,11 +58,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/books/";
               },
-            },{id: "post-ppum",
+            },{id: "post-privacy-preserving-neural-processes-for-probabilistic-user-modeling",
         
-          title: "Ppum",
+          title: "Privacy-Preserving Neural Processes for Probabilistic User Modeling",
         
-        description: "",
+        description: "Our UAI 2025 paper",
         section: "Posts",
         handler: () => {
           
