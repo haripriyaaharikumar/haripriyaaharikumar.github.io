@@ -18,7 +18,7 @@ COMP24112, BSc Computer Science and Mathematics, Machine Learning, Semester 2, (
 of Manchester, UK.
 
 
-Two BSc Computer Science Third Year project (2025-2026) - Concept Unlearning and Privacy preserved Unlearning.
+COMP30040 & COMP30030 Third Year Project Laboratory 2025/26 Full Year : Two Students - Concept Unlearning and Privacy preserved Unlearning.
 
 PhD - Ongoing.
 
