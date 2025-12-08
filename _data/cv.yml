@@ -32,7 +32,14 @@
       institution: Applied Artificial Intelligence Institute, Deakin University
       year: 2019-2024
       description: Led a Safe and Responsible AI research team
-
+      
+- title: Membership
+  type: time_table
+  contents:
+    - year: 
+      items:
+        - An active member in Women in AI community (<a href="https://www.directory.wiml.org/list/374/" WAI</a>)
+        
 - title: Honors and Awards
   type: time_table
   contents:
@@ -42,7 +49,7 @@
         - Attended CISPA-ELLIS-Summer School 2025 in Trustworthy AI (August 4-8, 2025)
     - year: 2025
       items:
-        - SaTML Travel Grant
+        - Secure and Trustworthy Machine Learning Conference Travel Grant
     - year: 2025
       items:
         - Works under UKRI Turing AI World-Leading Researcher Fellowship
@@ -52,8 +59,7 @@
         - WiML Travel Grant to attend NeurIPS
     - year: 2015
       items:
-        - PhD Scholarship (selected top 1% from India)
-
+        - PhD Scholarship 
 - title: Academic Interests
   type: nested_list
   contents:
@@ -77,5 +83,5 @@
 - title: Professional Services
   type: list
   contents:
-    - <u>Conference Reviewer:</u> CVPR (2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AISTAT (2024-Current).
+    - <u>Conference Reviewer:</u> CVPR (2021-Current),  AAAI (2022-Current), ICML (2024-Current), NeurIPS (2023-Current), AISTAT (2024-Current), ICCV (2023,2025), EUSIPCO (2019-2021), ECCV (2022,2024).
     
