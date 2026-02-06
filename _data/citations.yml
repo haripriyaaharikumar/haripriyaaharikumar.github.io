@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-06'
 papers:
   50ErN80AAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -58,7 +58,7 @@ papers:
     title: Multi label prediction using association rule generation and simple k-means
     year: '2016'
   50ErN80AAAAJ:UebtZRa9Y70C:
-    citations: 24
+    citations: 25
     title: Scalable Backdoor Detection in Neural Networks
     year: '2021'
   50ErN80AAAAJ:W7OEmFMy1HYC:
