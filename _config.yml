@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Hari blogs # blog_name will be displayed in your blog page
+blog_name: Hari's  blogs # blog_name will be displayed in your blog page
 blog_description: Discussion of my publications and my understanding of some concepts. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
