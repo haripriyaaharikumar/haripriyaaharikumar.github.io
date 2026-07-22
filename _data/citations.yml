@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-22'
 papers:
   50ErN80AAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Targeted Manifold Manipulation Against Adversarial Attacks
     year: '2025'
   50ErN80AAAAJ:5nxA0vEk-isC:
-    citations: 47
+    citations: 48
     title: 'Momentum adversarial distillation: Handling large distribution shifts in data-free knowledge distillation'
     year: '2022'
   50ErN80AAAAJ:9yKSN-GCB0IC:
@@ -65,6 +65,10 @@ papers:
     citations: 0
     title: Machine learning to fight addiction using social media
     year: '2018'
+  50ErN80AAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: Robust Bayesian Decision Making under Adversarial Uncertainty
+    year: '2026'
   50ErN80AAAAJ:Y0pCki6q_DkC:
     citations: 5
     title: Differentially private prescriptive analytics
