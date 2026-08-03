@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   50ErN80AAAAJ:0EnyYjriUFMC:
     citations: 3
     title: Defense against multi-target trojan attacks
     year: '2022'
   50ErN80AAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 15
     title: A high performance hybrid algorithm for text classification
     year: '2014'
   50ErN80AAAAJ:4DMP91E08xMC:
@@ -15,10 +15,10 @@ papers:
     year: '2025'
   50ErN80AAAAJ:4TOpqqG69KYC:
     citations: 2
-    title: Targeted Manifold Manipulation Against Adversarial Attacks
+    title: Targeted manifold manipulation against adversarial attacks
     year: '2025'
   50ErN80AAAAJ:5nxA0vEk-isC:
-    citations: 48
+    citations: 50
     title: 'Momentum adversarial distillation: Handling large distribution shifts in data-free knowledge distillation'
     year: '2022'
   50ErN80AAAAJ:9yKSN-GCB0IC:
@@ -31,7 +31,7 @@ papers:
     year: '2016'
   50ErN80AAAAJ:KlAtU1dfN6UC:
     citations: 3
-    title: Revisiting the Dataset Bias Problem from a Statistical Perspective
+    title: Revisiting the dataset bias problem from a statistical perspective
     year: '2024'
   50ErN80AAAAJ:LkGwnXOMwfcC:
     citations: 6
@@ -54,7 +54,7 @@ papers:
     title: Adversarial Defense using Targeted Manifold Manipulation
     year: '2022'
   50ErN80AAAAJ:UeHWp8X0CEIC:
-    citations: 12
+    citations: 11
     title: Multi label prediction using association rule generation and simple k-means
     year: '2016'
   50ErN80AAAAJ:UebtZRa9Y70C:
@@ -70,19 +70,19 @@ papers:
     title: Robust Bayesian Decision Making under Adversarial Uncertainty
     year: '2026'
   50ErN80AAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 6
     title: Differentially private prescriptive analytics
     year: '2018'
   50ErN80AAAAJ:YOwf2qJgpHMC:
-    citations: 24
+    citations: 25
     title: 'Santu Rana, and Svetha Venkatesh. Momentum adversarial distillation: Handling large distribution shifts in data-free knowledge distillation'
     year: '2022'
   50ErN80AAAAJ:Zph67rFs4hoC:
-    citations: 12
+    citations: 11
     title: Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. Towards effective and robust neural trojan defenses via input filtering
     year: '2022'
   50ErN80AAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 31
     title: Identification of predictors and model for predicting prolonged length of stay in dengue patients
     year: '2021'
   50ErN80AAAAJ:_kc_bZDykSQC:
@@ -98,7 +98,7 @@ papers:
     title: Towards effective and robust neural trojan defenses via input filtering
     year: '2022'
   50ErN80AAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 7
     title: A comparative performance analysis of self organizing maps on weight initializations using different strategies
     year: '2015'
   50ErN80AAAAJ:qxL8FJ1GzNcC:
@@ -110,7 +110,7 @@ papers:
     title: 'A random walk down personalized single-cell networks: predicting the response of any gene to any drug for any patient'
     year: '2019'
   50ErN80AAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: Integrating apriori with paired k-means for cluster fixed mixed data
     year: '2015'
   50ErN80AAAAJ:u5HHmVD_uO8C:
