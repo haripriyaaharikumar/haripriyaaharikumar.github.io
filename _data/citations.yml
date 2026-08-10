@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   50ErN80AAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -97,6 +97,10 @@ papers:
     citations: 8
     title: Towards effective and robust neural trojan defenses via input filtering
     year: '2022'
+  50ErN80AAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: Similarity-Aware Machine Unlearning
+    year: '2026'
   50ErN80AAAAJ:qjMakFHDy7sC:
     citations: 7
     title: A comparative performance analysis of self organizing maps on weight initializations using different strategies
